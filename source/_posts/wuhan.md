@@ -2,7 +2,7 @@
 title: 卜算子.武汉肺炎
 date: 2020-02-11 02:13:03
 tags: 杂文
-categories: 评论
+categories: 杂记
 ---
 
 己亥年末，庚子岁首。
